@@ -1,12 +1,12 @@
 {
   "error": false,
-  "id": "24c9592a556ff115c013739c528f3a7531b1efdc5dff1877805d9224297a8dd2",
-  "filename": "StagOS-mido-10.0.1-OFFICIAL-20200223-1220.zip",
-  "datetime": 1582526499,
+  "id": "88780ea065971d56bc72153411b6e033a7337c0629acf381f897c8c2920b8241",
+  "filename": "StagOS-enchilada-10.0.1-WEEKLY-20200315-0623.zip",
+  "datetime": "1584253342",
   "version": "10.0.1",
-  "size": 608688692,
-  "url": "https://sourceforge.net/projects/team-xtreme/files/StagOS-mido-10.0.1-OFFICIAL-20200223-1220.zip/download",
-  "filehash": "8d862b6cf854867fcff0bd514f76b60bca9b80d7",
+  "size": "572475371",
+  "url": "https://downloads.stag.workers.dev/enchilada/StagOS-enchilada-10.0.1-WEEKLY-20200315-0623.zip",
+  "filehash": "2d05b11e3f220fc1a880fa2dcf1d01ec",
   "website_url": "https://downloads.stag.workers.dev",
-  "news_url": "https://t.me/SeekNDstroy"
+  "news_url": "https://t.me/HornsUpdates"
 }
